@@ -1,0 +1,36 @@
+_repo: Women-As-Sex-Vendors--13-Or-Why-Women-Are-Conservative--Being-a-View-of-the-Economic-Status-o__28050
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Tobias, R. B. (Roscoe Burdette)
+    alias: Tobias, Roscoe Burdette
+    birthdate: 1880
+    gutenberg_agent_id: '33103'
+    url: http://www.gutenberg.org/2009/agents/33103
+  - agent_name: Marcy, Mary
+    alias: Tobias, Mary Edna
+    birthdate: 1877
+    deathdate: 1922
+    gutenberg_agent_id: '33104'
+    url: http://www.gutenberg.org/2009/agents/33104
+description: ''
+gutenberg_issued: '2009-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28050'
+  lccn: '18017980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social and moral questions'
+- !lcsh 'Family'
+- !lcsh 'Sexual ethics'
+- !lcc 'HQ'
+title: "Women As Sex Vendors\r\nOr, Why Women Are Conservative (Being a View of the\
+  \ Economic Status of Woman)"
+url: http://www.gutenberg.org/ebooks/28050
