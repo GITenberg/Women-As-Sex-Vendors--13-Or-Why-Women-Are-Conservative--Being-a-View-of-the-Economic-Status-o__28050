@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '33104'
     url: http://www.gutenberg.org/2009/agents/33104
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28050#Women-As-Sex-Vendors--13-Or-Why-Women-Are-Conservative--Being-a-View-of-the-Economic-Status-o_
 gutenberg_issued: '2009-02-11'
 gutenberg_type: Text
 identifiers:
